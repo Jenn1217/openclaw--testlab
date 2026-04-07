@@ -1,0 +1,19 @@
+{
+  "name": "ifind-http-market-data",
+  "version": "1.0.0",
+  "description": "Query iFinD market data through a local Python HTTP adapter.",
+  "author": "renzhenni",
+  "license": "MIT",
+  "repository": "https://github.com/YOUR_USERNAME/YOUR_REPO_NAME",
+  "main": "SKILL.md",
+  "scripts": {
+    "start": "python scripts/ifind_cli.py"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "ifind",
+    "finance",
+    "market-data"
+  ]
+}
